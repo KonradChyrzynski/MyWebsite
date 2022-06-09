@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,GAAC,CAAC,CAAA;EACC,WAAW,EAAE,IAAI;CACpB;;AAED,AAAA,CAAC,CAAA;EACG,KAAK,EAAE,OAAO;CAEjB",
+    "sources": [
+        "nav-icons.component.scss"
+    ],
+    "names": [],
+    "file": "nav-icons.component.css"
+}
